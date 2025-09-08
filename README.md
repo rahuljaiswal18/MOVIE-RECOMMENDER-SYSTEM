@@ -28,16 +28,9 @@ After activating the virtual environment, you can install packages using pip:
 pip install package_name
 ```
 
-## Creating Requirements File
+# DATABASE
+https://drive.google.com/file/d/1a8aFD9HdfI_SiktIenLJv63YwFPZ5CUI/view?usp=drive_link
 
-To save a list of installed packages:
-```bash
-pip freeze > requirements.txt
-```
 
-## Installing from Requirements File
 
-To install packages from a requirements file:
-```bash
-pip install -r requirements.txt
-```
+
